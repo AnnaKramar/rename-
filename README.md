@@ -1,1 +1,1 @@
-# rsschool-cv
+# with an error
